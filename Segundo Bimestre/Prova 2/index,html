@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <nav id="header">
+            <ul class="menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Porifolios</a></li>
+                <li><a href="#">Artigos</a></li>
+                <li><a href="#">Css</a></li>
+            </ul>
+        </nav>
+    </div>
+    
+    <div class="socorro">
+        <h1>Post1 Post2 Post3</h1>
+        <hr>
+    </div>
+    <div style=text-align:center/left/right>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+    </div>
+
+
+</body>
+</html>
