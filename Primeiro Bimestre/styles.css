@@ -1,0 +1,38 @@
+body{
+    background-color: #CB6CE6;
+}
+#serviços{
+    color: aliceblue;
+    font-size: 100px;
+}
+#Sobre{
+    color: aliceblue;
+    font-size: 100px;
+    
+}
+#Contato{
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+}
+#corpoum{
+    background-color: #CB6CE6;
+}
+p{
+    color: aliceblue;
+    font-size:30px;
+    text-align: center;
+}
+li{
+    text-align: center;
+    color: #CB6CE6;
+}
+#service{
+    text-align: center;
+    color: #CB6CE6;
+}
+h1{
+    font-size: 200px;
+    text-align: center;
+    color: aliceblue;
+}
