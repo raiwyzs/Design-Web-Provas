@@ -1,1 +1,36 @@
+*{margin: 0; padding: 0;}
 
+body {
+    background-color: aquamarine;
+}
+
+.menu {
+    list-style: none;
+    border: 1px solid black;
+    float: left;
+
+}
+
+.menu li {
+    position: relative;
+    float: left;
+    border-right: 1px solid black;
+}
+
+.menu li a {color: black; text-decoration: none; padding: 5px 10px; display: block;}
+
+.container {
+    padding: 10px;
+    background: #6C7A89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.socorro{
+    word-spacing: 600px;
+}
+.paragrafo{
+    word-spacing: 10x;
+}
+     
